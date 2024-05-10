@@ -25,7 +25,7 @@ h4{
   color: Black;font-family: Trebuchet MS, sans-serif;
 }
 
- a:link, a:visited {
+ button:link, button:visited {
   padding: 5px 15px;
   link-align: center;
   text-align: center;
@@ -34,11 +34,11 @@ h4{
    background-color: LightPink;
  }
 
-a:hover, a:active {
+button:hover, button:active {
   background-color: PaleVioletRed;
 }
 
-a{
+button1{
   link-align: center;
   padding: 0px 0px;
  
