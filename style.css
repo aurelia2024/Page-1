@@ -1,13 +1,17 @@
-
-h3{
-  text-align: left;
-  color: Black;font-family: Trebuchet MS, sans-serif;font-size:150%;
-}
-
 h1{
   text-align: center;
   background-color: LightPink;
   color: Black;font-family: Brush Script MT, cursive;font-size:400%;
+}
+
+h2{
+  text-align: left;
+  color: Black;font-family: Trebuchet MS, sans-serif;font-size:150%;
+}
+
+h3{
+  text-align: left;
+  color: Black;font-family: Trebuchet MS, sans-serif;font-size:150%;
 }
 
 background{
