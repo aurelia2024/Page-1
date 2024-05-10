@@ -26,12 +26,13 @@ h4{
 }
 
  a:link, a:visited {
-  padding: 15px 25px;
+  padding: 5px 15px;
   link-align: center;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-}
+   background-color: LightPink;
+ }
 
 a:hover, a:active {
   background-color: PaleVioletRed;
