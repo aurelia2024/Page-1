@@ -1,6 +1,6 @@
 
-h2{
-  text-align: center;
+h3{
+  text-align: left;
   color: Black;font-family: Trebuchet MS, sans-serif;font-size:150%;
 }
 
@@ -14,13 +14,13 @@ background{
   background-color: MistyRose;
 }
 
-h3{
+h4{
   text-align: center;
   color: Black; font-family: Trebuchet MS, sans-serif;
 }
 
   
-h4{
+h5{
   text-align: center;
   color: Black;font-family: Trebuchet MS, sans-serif;
 }
