@@ -35,6 +35,17 @@ h5{
   text-align: center;
   color: Black;
   font-family: Trebuchet MS, sans-serif;
+
+h6{
+  text-align: center;
+  color: Black;
+  font-family: Trebuchet MS, sans-serif;
+}
+
+h7{
+  text-align: center;
+  color: Black;
+  font-family: Trebuchet MS, sans-serif;
 }
 
  a:link, a:visited {
