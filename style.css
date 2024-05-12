@@ -11,7 +11,7 @@ h2{
   color: Black;
   font-family: Trebuchet MS, sans-serif;
   font-size:250%;
-  margin-left: 200px;
+  margin-left: 90px;
 }
 
 h3{
@@ -19,7 +19,7 @@ h3{
   color: Black;
   font-family: Trebuchet MS, sans-serif;
   font-size:250%;
-  margin-left: 200px;
+  margin-left: 90px;
 }
 
 background{
@@ -30,7 +30,7 @@ h4{
   text-align: center;
   color: Black; 
   font-family: Trebuchet MS, sans-serif;
-  margin-left: 200px;
+  margin-left: 90px;
 }
 
   
@@ -38,21 +38,21 @@ h5{
   text-align: center;
   color: Black;
   font-family: Trebuchet MS, sans-serif;
-  margin-left: 200px;
+  margin-left: 90px;
 }
 
 h6{
   text-align: center;
   color: Black;
   font-family: Trebuchet MS, sans-serif;
-  margin-left: 200px;
+  margin-left: 90px;
 }
 
 h7{
   text-align: center;
   color: Black;
   font-family: Trebuchet MS, sans-serif;
-  margin-left: 200px;
+  margin-left: 90px;
 }
 
  a:link, a:visited {
@@ -73,7 +73,7 @@ a:hover, a:active {
 a{
   link-align: center;
   padding: 0px 0px;
-  margin-left: 100px;
+  margin-left: 90px;
  
 
 }
