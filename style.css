@@ -4,7 +4,6 @@ h1{
   color: Black;
   font-family: Brush Script MT, cursive;
   font-size:400%;
-  margin-left: 100%
 }
 
 h2{
@@ -12,6 +11,7 @@ h2{
   color: Black;
   font-family: Trebuchet MS, sans-serif;
   font-size:250%;
+  margin-left: 100%
   
 }
 
@@ -20,6 +20,7 @@ h3{
   color: Black;
   font-family: Trebuchet MS, sans-serif;
   font-size:250%;
+  margin-left: 100%
 }
 
 background{
