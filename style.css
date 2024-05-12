@@ -11,7 +11,7 @@ h2{
   color: Black;
   font-family: Trebuchet MS, sans-serif;
   font-size:250%;
-  margin-left: 100%  
+  margin-left: 200%;
 }
 
 h3{
@@ -19,7 +19,7 @@ h3{
   color: Black;
   font-family: Trebuchet MS, sans-serif;
   font-size:250%;
-  margin-left: 100%
+  margin-left: 200%;
 }
 
 background{
@@ -30,6 +30,7 @@ h4{
   text-align: center;
   color: Black; 
   font-family: Trebuchet MS, sans-serif;
+  margin-left: 200%;
 }
 
   
