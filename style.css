@@ -56,16 +56,18 @@ h7{
 }
 
  a:link, a:visited {
-  padding: 5px 15px;
-  link-align: center;
+  background-color: MistyRose;
+  color: black;
+  border: 2px solid LightPink;
+  padding: 10px 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  background-color: LightPink;
  }
 
 a:hover, a:active {
-  background-color: PaleVioletRed;
+  background-color: LightPink;
+  color: white;
 }
 
 a{
