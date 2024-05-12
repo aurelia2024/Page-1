@@ -6,20 +6,22 @@ h1{
   font-size:400%;
 }
 
-p{
+h2{
   text-align: center;
   color: Black;
   font-family: Trebuchet MS, sans-serif;
   font-size:250%;
   margin-left: 90px;
+  margin-botton: 700px;
 }
 
-p{
+h3{
   text-align: center;
   color: Black;
   font-family: Trebuchet MS, sans-serif;
   font-size:250%;
   margin-left: 90px;
+  margin-top: 20px;
 }
 
 background{
