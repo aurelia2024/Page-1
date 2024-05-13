@@ -40,23 +40,30 @@ ol{
   margin-left: 90px;
 }
 
-ul{
+ul {
+  list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
+  background-color: White;
 }
 
-li{
+li {
   float: left;
 }
 
-li a{
+li a {
   display: block;
-  padding: 5px;
-  background-color: #FFE1DB;
+  color: white;
+  text-align: center;
+  padding: 1opx 12px;
+  text-decoration: none;
 }
 
-div{
+li a:hover {
+  background-color: LightPink;
+
+  div{
   text-align: center;
 }
 
