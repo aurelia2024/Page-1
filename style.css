@@ -12,16 +12,16 @@ h2{
   color: Black;
   font-family: Trebuchet MS, sans-serif;
   font-size:250%;
-  margin-left: 90px;
-  margin-botton: 5px;
+  float: left;
+  margin-left: 50px;
 }
 
 h3{
   color: Black;
   font-family: Trebuchet MS, sans-serif;
   font-size:250%;
-  margin-left: 90px;
-  margin-top: 5px;
+  margin-left: 50px;
+  float: left;
 }
 
 background{
