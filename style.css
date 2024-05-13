@@ -36,6 +36,10 @@ p{
 
 }
 
+ol{
+  margins-left: 90px;
+  background-color: none;
+
 ul{
   list-style-type: none;
   margin: 0;
