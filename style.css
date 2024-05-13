@@ -52,16 +52,12 @@ ul{
   text-align: center;
 }
 
-.button {
-  background-color: LightPink;
-  border: none;
-  color: white;
-  padding: 5px 10px;
+button{
+  color: Black;
+  background-color: White;
   text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
-  margin-left: 10px;
+  font-size: 22px;
+  border: none;
+  border-radius: 7px;
+  margin: 7px 5px;
 }
