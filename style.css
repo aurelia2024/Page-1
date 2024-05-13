@@ -50,6 +50,20 @@ li{
 li a{
   display: block;
   padding: 8px;
-  background-color: #dddddd;
+  background-color: #FFE1DB;
 }
-  
+
+a:link, a:visited {
+  background-color: white;
+  color: black;
+  border: 2px solid LightPink;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: LightPink;
+  color: white;
+}
