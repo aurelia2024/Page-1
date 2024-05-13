@@ -45,13 +45,14 @@ p{
 
 ul{
   margin-left: 90px;
+  list-style-position: inside;
 }
   
   div{
   text-align: center;
 }
 
-button {
+.button {
   background-color: LightPink;
   border: none;
   color: white;
