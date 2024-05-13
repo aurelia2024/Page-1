@@ -39,23 +39,32 @@ h4{
   
 p{
   color: Black;
-  font-family: Trebuchet MS, sans-serif;
-  margin-right: 90px;
-  float: right;
-
-}
-
-ul{
-
-  color: Black;
   text-align: left;
   font-size: 100%;
   width: 400px;
-  border: 3px FloralWhite;
+  border: 3px White;
   border-radius: 9px;
   padding: 30px;
   background-color: MistyRose;
   list-style-position: inside;
+  float: right;
+  margin-right: 90px;
+
+
+}
+
+ul{
+  color: Black;
+  text-align: left;
+  font-size: 100%;
+  width: 400px;
+  border: 3px White;
+  border-radius: 9px;
+  padding: 30px;
+  background-color: MistyRose;
+  list-style-position: inside;
+  float: right;
+  margin-right: 90px;
 }
   
 .number-links{
