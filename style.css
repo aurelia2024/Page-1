@@ -54,27 +54,3 @@ li a{
   background-color: #dddddd;
 }
   
-  
-
- a:link, a:visited {
-  background-color: MistyRose;
-  color: black;
-  border: 2px solid LightPink;
-  padding: 10px 20px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
- }
-
-a:hover, a:active {
-  background-color: LightPink;
-  color: white;
-}
-
-a{
-  link-align: center;
-  padding: 0px 0px;
-  margin-left: 50px;
- 
-
-}
