@@ -56,12 +56,13 @@ li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 5px 6px;
+  padding: 0;
   text-decoration: none;
 }
 
 li a:hover {
   background-color: LightPink;
+}
 
   div{
   text-align: center;
