@@ -58,8 +58,13 @@ ul{
   list-style-position: inside;
 }
   
-  div{
+div{
   text-align: center;
+}
+
+  .images{
+    margin: 90px;
+    
 }
 
 button {
