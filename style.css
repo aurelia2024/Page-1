@@ -36,10 +36,6 @@ p{
 
 }
 
-ol{
-  margins-left: 90px;
-  background-color: none;
-
 ul{
   list-style-type: none;
   margin: 0;
@@ -71,3 +67,7 @@ a:hover, a:active {
   background-color: LightPink;
   color: white;
 }
+
+div{
+  text-align: center;
+
