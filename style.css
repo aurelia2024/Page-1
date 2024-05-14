@@ -17,19 +17,6 @@ background{
   background-color: MistyRose;
 }
 
-.outline{
-  border: 1px solid LightPink;
-  border-radius: 4px;
-  padding: 5px;
-  margin-left: 50px;
-  
-}
-
-.outline:hover {
-  box-shadow: 0 0 2px 1px rgba(246, 36, 89);
-}
-
-
 h4{
   color: Black; 
   font-family: Trebuchet MS, sans-serif;
