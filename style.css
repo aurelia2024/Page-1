@@ -12,7 +12,7 @@ h2{
   font-size:250%;
   margin-left: 40px;
   margin-top: 10px;
-  background-image: url('https://www.recipetineats.com/wp-content/uploads/2020/07/Strawberry-Cake_0-SQ.jpg?resize=317,317');
+  background-image: url('https://fruitabella.com.au/cdn/shop/products/strawberries_fa595afc-a484-4d55-a2db-ba484ed13393_720x.jpg?v=1516168632');
 }
 
 background{
@@ -27,7 +27,7 @@ h4{
 
   
 p{
-   color: Black;
+  color: Black;
   text-align: left;
   font-size: 100%;
   width: 550px;
@@ -69,8 +69,8 @@ ul{
     border-radius: 9px;
     margin-left: 20px;
     margin-right: 30px;
-    margin-bottom: 30px;
-    margin-top: 20px;
+    margin-bottom: 170px;
+    margin-top: 50px;
 
    .paragraph{ 
       color: Black;
