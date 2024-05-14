@@ -31,7 +31,7 @@ p{
   font-size: 100%;
   background-color: MistyRose;
   float: right;
-  margin-right: 20px;
+  margin-right: 50px;
   position: relative;
   left: 20px;
   margin-left: 170px;
@@ -48,7 +48,7 @@ ul{
   background-color: MistyRose;
   list-style-position: inside;
   float: right;
-  margin-right: 20px;
+  margin-right: 50px;
   position: relative;
   left: 20px;
   margin-left: 170px;
@@ -76,7 +76,7 @@ ul{
       background-color: MistyRose;
       list-style-position: inside;
       float: right;
-      margin-right: 20px;
+      margin-right: 50px;
       position: relative;
       right: 20px;
       margin-left: 170px;
