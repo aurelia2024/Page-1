@@ -51,6 +51,7 @@ p{
   margin-right: 20px;
   position: relative;
   right: 20px;
+  margin-left: 170px;
 }
 
 ul{
@@ -67,6 +68,7 @@ ul{
   margin-right: 20px;
   position: relative;
   left: 20px;
+  margin-left 170px;
 }
   
 .number-links{
@@ -94,6 +96,7 @@ ul{
       margin-right: 20px;
       position: relative;
       right: 20px;
+      margin-left: 170px;
 }
 
 button {
