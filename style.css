@@ -20,7 +20,7 @@ background{
 h4{
   color: Black; 
   font-family: Trebuchet MS, sans-serif;
-  margin-left: 90px;
+  margin-left: 100px;
 }
 
   
@@ -63,7 +63,7 @@ ul{
 }
 
   .images{
-    margin-left: 20px;
+    margin-left: 100px;
     border: none;
     border-radius: 0px;
     padding: 0px;
