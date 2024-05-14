@@ -102,17 +102,3 @@ button {
   margin: 7px 5px;
 
 }
-
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: LightPink;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(246, 36, 89);
-  z-index: 1;
-  top: 100%
-
-}
-
-
-
