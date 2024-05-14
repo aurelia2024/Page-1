@@ -66,11 +66,11 @@ ul{
 }
 
   .images{
+    border-radius: 9px;
     margin-left: 20px;
-    border: none;
-    border-radius: 0px;
-    padding: 0px;
-    box-shadow: none;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    margin-top: 20px;
 
    .paragraph{ 
       color: Black;
