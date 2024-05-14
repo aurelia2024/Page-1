@@ -17,7 +17,7 @@ img:hover {
 }
 
 .row:after {
-  content: "";
+  content: "images";
   clear: both;
   display: table;
 }
