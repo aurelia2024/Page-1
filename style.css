@@ -10,6 +10,18 @@ img:hover {
   box-shadow: 0 0 2px 1px rgba(246, 36, 89);
 }
 
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.row:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 h1{
   background-color: LightPink;
   color: Black;
